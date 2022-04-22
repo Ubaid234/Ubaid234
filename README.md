@@ -5,8 +5,7 @@ Aspiring web developer
 ----------------------
 
 * ✉️  You can contact me at [mrubaid56@gmail.com](mailto:mrubaid56@gmail.com)
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Learning and working together.
+* 🧠  I'm currently learning JavaScript
 
 <a href="https://www.twitter.com/codewithubaid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codewithubaid?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
