@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Learning **JavaScript**
 
-- 👯 I’m looking to collaborate with **people learning web dev.**
+- 👯 I’m looking to collaborate with **People On The Same Journey.**
 
 - 💬 Ask me about **HTML and CSS**
 
