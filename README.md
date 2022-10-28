@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **People On The Same Journey.**
 
-- 💬 Ask me about **Development , Technology and Stuff**
+- 💬 Ask me about **Development , Technology and Stuff.**
 
 - 📫 How to reach me **mrubaid56@gmail.com**
 
