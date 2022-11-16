@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ubaid</h1>
+<h1 align="center">Hi 👋, I'm OBAID SHAKEEL</h1>
 <h3 align="center">An Aspiring Developer from Kashmir</h3>
 
 <p align="left"> <a href="https://twitter.com/codewithubaid" target="blank"><img src="https://img.shields.io/twitter/follow/codewithubaid?logo=twitter&style=for-the-badge" alt="codewithubaid" /></a> </p>
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **People On The Same Journey.**
 
-- 💬 Ask me about **Development ,Technology and Stuff.**
+- 💬 Ask me about **Development , Technology and Stuff.**
 
 - 📫 How to reach me **mrubaid56@gmail.com**
 
