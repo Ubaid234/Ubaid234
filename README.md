@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Learning **Python**
 
-- 👯 I’m looking to collaborate with **People On The Same Journey.**
+<!-- - 👯 I’m looking to collaborate with **People On The Same Journey.** -->
 
 - 💬 Ask me about **Development , Technology and Stuff.**
 
